@@ -45,6 +45,7 @@ pip install -r requirements.txt
 streamlit run app.py
 
 🧪 How It Works
+
 Data Loading: Fetches stock data using yfinance.
 
 Preprocessing: Normalizes the data and prepares sequences for time series prediction.
@@ -55,10 +56,10 @@ Prediction: Predicts future stock values based on learned patterns.
 
 Visualization: Plots actual vs. predicted prices in the Streamlit UI.
 
-📸 Screenshots
-Add screenshots of the web interface and sample output plots here.
+
 
 🧪 Testing
+
 Tested with major stock tickers (AAPL, TSLA, MSFT, etc.)
 
 Validated predictions using RMSE and trend accuracy
