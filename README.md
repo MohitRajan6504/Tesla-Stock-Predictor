@@ -67,6 +67,7 @@ Validated predictions using RMSE and trend accuracy
 Edge cases (e.g., invalid ticker symbols) are handled gracefully
 
 🔮 Future Work
+
 Use Transformer models for improved forecasting
 
 Integrate real-time news sentiment analysis
